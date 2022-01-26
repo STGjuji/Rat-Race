@@ -1,0 +1,15 @@
+C:\Git-Repo's\Rat-Race\bin\Debug\net6.0\Rat-Race.exe
+C:\Git-Repo's\Rat-Race\bin\Debug\net6.0\Rat-Race.deps.json
+C:\Git-Repo's\Rat-Race\bin\Debug\net6.0\Rat-Race.runtimeconfig.json
+C:\Git-Repo's\Rat-Race\bin\Debug\net6.0\Rat-Race.dll
+C:\Git-Repo's\Rat-Race\bin\Debug\net6.0\ref\Rat-Race.dll
+C:\Git-Repo's\Rat-Race\bin\Debug\net6.0\Rat-Race.pdb
+C:\Git-Repo's\Rat-Race\obj\Debug\net6.0\Rat-Race.csproj.AssemblyReference.cache
+C:\Git-Repo's\Rat-Race\obj\Debug\net6.0\Rat-Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git-Repo's\Rat-Race\obj\Debug\net6.0\Rat-Race.AssemblyInfoInputs.cache
+C:\Git-Repo's\Rat-Race\obj\Debug\net6.0\Rat-Race.AssemblyInfo.cs
+C:\Git-Repo's\Rat-Race\obj\Debug\net6.0\Rat-Race.csproj.CoreCompileInputs.cache
+C:\Git-Repo's\Rat-Race\obj\Debug\net6.0\Rat-Race.dll
+C:\Git-Repo's\Rat-Race\obj\Debug\net6.0\ref\Rat-Race.dll
+C:\Git-Repo's\Rat-Race\obj\Debug\net6.0\Rat-Race.pdb
+C:\Git-Repo's\Rat-Race\obj\Debug\net6.0\Rat-Race.genruntimeconfig.cache
