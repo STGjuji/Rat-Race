@@ -5,7 +5,7 @@
 
 public class RaceManager
 {
-    alskdlasdls
+
 }
 
 public class BookMaker
