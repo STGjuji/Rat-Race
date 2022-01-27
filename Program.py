@@ -2,12 +2,13 @@
 import time
 
 
+
 def clear():
     print("\n" * 80)
 
-def race(mice = 2):
+def race(rat = 2):
 
-    mice = ['----{,_,">' for i in range(mice)]
+    rat = ['----{,_,">' for i in range(rat)]
     finished = [False,]
 
     while not all(finished):
@@ -17,13 +18,13 @@ def race(mice = 2):
 
         print('\t' * 8, '|')
 
-        for i in range(len(mice)):
+        for i in range(len(rat)):
 
             x = randint(1, 6)
             spaces = ' ' * x
-            mice[i] = spaces + mice[i]
-            print(mice[i])
+            rat[i] = spaces + rat[i]
+            print(rat[i])
 
-        finished = map(lambda mouse: False if len(mouse) < 50 else True, mice)
+        finished = map(lambda mouse: False if len(mouse) < 50 else True, rat)
 
 race(3)
