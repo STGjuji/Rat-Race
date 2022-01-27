@@ -1,11 +1,14 @@
 ﻿import time
 from random import randint
-from questions import TrackQuestion
-from questions import GroupQuestion
+from questions import *
 
 
 def clear():
     print("\n" * 80)
+    
+print(TrackQuestion)
+
+print(GroupQuestion)
 
 class race:
     def race(rat, rat2 = 2):
@@ -45,8 +48,3 @@ class race:
             finished = map(lambda mouse: False if len(mouse) < 50 else True, rat2)
             
     race(3)
-    
-if Question == ("1"):
-	print ("Good Choice!")
-elif Question == ("2"):
-	print ("Good Choice!")
