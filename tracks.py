@@ -1,3 +1,10 @@
+import time
+from random import randint
+
+def clear():
+    print("\n" * 80)
+
+
 class race:
     def race(rat, rat2 = 2):
 

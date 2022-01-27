@@ -1,6 +1,5 @@
 import turtle
 
-
 TrackQuestion = input("Choose the track: (Type:1 - Short) (Type:2 - Medium) (Type:3 - Long)")
 if TrackQuestion == ("1"):
 	print ("Short")
@@ -16,4 +15,3 @@ if GroupQuestion == ("1"):
 	print ("Good Choice!")
 elif GroupQuestion == ("2"):
 	print ("Good Choice!")
- 
