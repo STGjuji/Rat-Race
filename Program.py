@@ -1,11 +1,20 @@
 ﻿from random import randint
 import time
+import turtle
 
 
 def clear():
     print("\n" * 80)
     
-    
+Question = input("Choose the track: (Type:1 - Short) (Type:2 - Medium) (Type:3 - Long)")
+if Question == ("1"):
+	print ("Short")
+elif Question == ("2"):
+	print ("Medium")
+elif Question == ("3"):
+    print ("Long")
+
+
 Question = input("Are you betting on group 1 or 2   ")
 if Question == ("1"):
 	print ("Good Choice!")
