@@ -5,6 +5,13 @@ import time
 def clear():
     print("\n" * 80)
     
+    
+Question = input("Are you betting on group 1 or 2")
+if Question == ("1"):
+	print ("Good Choice!")
+elif Question == ("2"):
+	print ("Good Choice!")
+ 
 class race:
     def race(rat, rat2 = 2):
 
