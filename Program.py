@@ -1,26 +1,13 @@
 ﻿from random import randint
+from questions import TrackQuestion
+from questions import GroupQuestion
 import time
 import turtle
 
 
 def clear():
     print("\n" * 80)
-    
-Question = input("Choose the track: (Type:1 - Short) (Type:2 - Medium) (Type:3 - Long)")
-if Question == ("1"):
-	print ("Short")
-elif Question == ("2"):
-	print ("Medium")
-elif Question == ("3"):
-    print ("Long")
 
-
-Question = input("Are you betting on group 1 or 2   ")
-if Question == ("1"):
-	print ("Good Choice!")
-elif Question == ("2"):
-	print ("Good Choice!")
-	
 class race:
     def race(rat, rat2 = 2):
 
@@ -36,10 +23,10 @@ class race:
             time.sleep(1)
             clear()
 
-            print('\t' * 9, 'FINISH')
+            print('\t' * 8, 'FINISH')
 
             for i in range(len(rat)):
-                x = randint(1, 10)
+                x = randint(1, 12)
                 spaces = ' ' * x
                 rat[i] = spaces + rat[i]
                 print(rat[i])
@@ -50,7 +37,7 @@ class race:
             print("--------------------------------------------------------------------")            
             
             for i in range(len(rat2)):
-                x = randint(1, 10)
+                x = randint(1, 12)
                 spaces = ' ' * x
                 rat2[i] = spaces + rat2[i]
                 print(rat2[i])
