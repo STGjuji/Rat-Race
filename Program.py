@@ -1,8 +1,7 @@
-﻿from random import randint
+﻿import time
+from random import randint
 from questions import TrackQuestion
 from questions import GroupQuestion
-import time
-import turtle
 
 
 def clear():
