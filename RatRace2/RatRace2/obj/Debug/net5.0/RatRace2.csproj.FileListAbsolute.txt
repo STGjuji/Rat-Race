@@ -1,0 +1,32 @@
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.csproj.AssemblyReference.cache
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.AssemblyInfoInputs.cache
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.AssemblyInfo.cs
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.exe
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.deps.json
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.runtimeconfig.json
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.runtimeconfig.dev.json
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.dll
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\bin\Debug\net5.0\ref\RatRace2.dll
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.pdb
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.dll
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\obj\Debug\net5.0\ref\RatRace2.dll
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.pdb
+C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.genruntimeconfig.cache
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.exe
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.deps.json
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.runtimeconfig.json
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.runtimeconfig.dev.json
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.dll
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.pdb
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.csproj.AssemblyReference.cache
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.AssemblyInfoInputs.cache
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.AssemblyInfo.cs
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.csproj.CoreCompileInputs.cache
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.dll
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\obj\Debug\net5.0\ref\RatRace2.dll
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.pdb
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\obj\Debug\net5.0\RatRace2.genruntimeconfig.cache
+C:\Users\kuntz\Desktop\RatRace2\RatRace2\obj\Debug\net5.0\refint\RatRace2.dll

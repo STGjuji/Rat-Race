@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: RatRace2, Configuration: Debug Any CPU ------
+1>C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\Program.cs(103,20,103,25): warning CS0219: The variable 'slogo' is assigned but its value is never used
+1>RatRace2 -> C:\Visual Studio Projeckts\Training\RatRace2\RatRace2\bin\Debug\net5.0\RatRace2.dll
+1>Done building project "RatRace2.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

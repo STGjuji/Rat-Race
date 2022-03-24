@@ -1,0 +1,97 @@
+Spørgsmål til Object Oriented Programming:
+
+ Hvad er forskellen på en klasse og et object?
+	En klasse kan indeholde objecter, metoder og attributer(variabler).
+	Et object kan være en instans af en klasse.
+
+Hvad er en type?
+Hvad er en return type?
+
+ Hvad er en enum?
+	En enum-type er en værditype, der er defineret af et sæt 
+	navngivne konstanter 
+	af den underliggende type. 
+
+ Hvad er et scope?
+	Et scope bestemmer tilgængeligheden af variblen til en hvis del af applicationen.
+	
+	Hvad er en contructor?
+	
+Hvad er forskellen på en variabel og en property?
+Hvad er en garbage collector?
+Hvad er overloading?
+Hvad gør virtual og hvordan hænger den sammen med override?
+Hvad er forskellen på et implementering af et interface og nedarvningen fra en klasse?
+
+Giv et eksempel på Encapsulation.
+Giv et eksempel på Inheritance.
+Giv et eksempel på Polymorphism.
+Giv et eksempel på Abstraction.
+
+Hvad er et Anti-Pattern?
+Hvad er en Code Smell?
+Nævn nogle anti-patterns.
+
+Hvad bruges klassediagrammer til?
+Hvordan vises aggregation på et klassediagram?
+Hvordan vises abstraction på et klassediagram?
+Hvordan vises association på et klassediagram?
+Hvordan vises composition på et klassediagram? 
+
+
+
+
+
+
+
+
+
+Det vi faktisk bliver spurgt om:
+
+- Hvad er en contructor?
+	En contructor bliver brugt til at initialisere objekter af klassen
+	fx. At sætte diverse startværdier. Rat, så RaceManager kan se den
+	
+- Hvad er forskellen på en variabel og en property?
+	En klasse kan indeholde objekter, metoder og variabler.
+	Et object kan være en instans af en klasse.
+	
+- Hvad er overloading?
+	Overloading er det der sker når du har to metoder med samme navn
+
+- Hvad gør virtual og hvordan hænger den sammen med override?
+	Virtual bruges til at modificere en metode egenskab eller indeksering
+	og tillade den at blive overridden i en afledt klasse. 
+
+- Giv et eksempel på Encapsulation.
+	Encapsulation gør så en gruppe af forskeligt data bliver betragtet som en unit
+	fx. public RaceManager i racemanager
+
+
+- Giv et eksempel på Inheritance. (Nedarvning)
+	Inheritance lader os lave abdre classes fra en der allerede existere
+	fx. rm.Class, rm.Races
+
+- Giv et eksempel på Polymorphism.
+	Hvis der skulle have været flere dyr, ville man kunne lave en Animal class.
+	Derefter kunne lave klasser som for eksempel Rat : Animal, Dog : Animal, Giraffe : Animal
+
+- Giv et eksempel på Abstraction.
+	(Giraffe.cs)
+	En abstraction class er en klasse hvor man kun kan inherit inde for samme klasse.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
